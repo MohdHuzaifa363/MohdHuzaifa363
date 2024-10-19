@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohdHuzaifa
 - 👀 I’m interested in programing language 
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning javascrpts and react js 
 - 💞️ I’m looking for opportunity explore somthing new 
 - 📫 How to reach me ...
 
